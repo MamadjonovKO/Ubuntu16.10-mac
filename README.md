@@ -42,15 +42,15 @@ docker start -i <container ID>
 ### 5. Update Package Manager Configuration
 In the container, open the /etc/apt/sources.list file and uncomment lines starting with deb-src, except those ending with partner. Replace all occurrences of ports.ubuntu.com with old-releases.ubuntu.com. The image in the docker doesn't have any text editor, so you will have to edit the file using docker:
 
-![Screenshot]([https://raw.githubusercontent.com/yourusername/yourrepository/main/screenshot.png](https://github.com/MamadjonovKO/Ubuntu16.10-mac/blob/main/temp/Screenshot%202023-11-23%20at%2022.53.10.png))
+![Screenshot](https://github.com/MamadjonovKO/Ubuntu16.10-mac/blob/main/temp/Screenshot%202023-11-23%20at%2022.53.10.png)
 
-![Screenshot]([https://raw.githubusercontent.com/yourusername/yourrepository/main/screenshot.png](https://github.com/MamadjonovKO/Ubuntu16.10-mac/blob/main/temp/Screenshot%202023-11-23%20at%2022.53.30.png))
+![Screenshot](https://github.com/MamadjonovKO/Ubuntu16.10-mac/blob/main/temp/Screenshot%202023-11-23%20at%2022.53.30.png)
 
-![Screenshot]([https://raw.githubusercontent.com/yourusername/yourrepository/main/screenshot.png](https://github.com/MamadjonovKO/Ubuntu16.10-mac/blob/main/temp/Screenshot%202023-11-23%20at%2022.54.00.png))
+![Screenshot](https://github.com/MamadjonovKO/Ubuntu16.10-mac/blob/main/temp/Screenshot%202023-11-23%20at%2022.54.00.png)
 
-![Screenshot]([https://raw.githubusercontent.com/yourusername/yourrepository/main/screenshot.png](https://github.com/MamadjonovKO/Ubuntu16.10-mac/blob/main/temp/Screenshot%202023-11-23%20at%2022.54.08.png))
+![Screenshot](https://github.com/MamadjonovKO/Ubuntu16.10-mac/blob/main/temp/Screenshot%202023-11-23%20at%2022.54.08.png)
 
-![Screenshot]([https://raw.githubusercontent.com/yourusername/yourrepository/main/screenshot.png](https://github.com/MamadjonovKO/Ubuntu16.10-mac/blob/main/temp/Screenshot%202023-11-23%20at%2022.54.40.png))
+![Screenshot](https://github.com/MamadjonovKO/Ubuntu16.10-mac/blob/main/temp/Screenshot%202023-11-23%20at%2022.54.40.png)
 
 
 ### 6. Update and Install Packages
